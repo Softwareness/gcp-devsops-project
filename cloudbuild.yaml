@@ -5,3 +5,5 @@ images:
   - 'gcr.io/$PROJECT_ID/gcpdevops'
 options:
   logging: CLOUD_LOGGING_ONLY
+region: europe-west1
+
